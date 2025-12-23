@@ -1,9 +1,9 @@
 # ✨ About Me:
-☕ | Java Dev, OpenWar Admin, Server Host
-🎮 | Minecraft 1.12.2
-🔧 | I edit mods and create my own
-🌐 | Website : [openwar.fr](https://openwar.fr)  
-📨 | Contact : please don't. 
+☕ | Java Dev, OpenWar Admin, Server Host<br>
+🎮 | Minecraft 1.12.2<br>
+🔧 | I edit mods and create my own<br>
+🌐 | Website : [openwar.fr](https://openwar.fr)<br>
+📨 | Contact : please don't.<br>
 
 Most of my work is private.
 
