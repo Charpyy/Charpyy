@@ -28,16 +28,16 @@ Most of my work is private.
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Charpyy&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Charpyy&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charpyy&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+ 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Charpyy&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Charpyy&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charpyy&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Charpyy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Charpyy&theme=github_dark&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Charpyy&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Charpyy&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Charpyy&icon=5&color=9)](https://visitcount.itsvg.in)
